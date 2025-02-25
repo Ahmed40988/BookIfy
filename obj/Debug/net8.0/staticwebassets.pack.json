@@ -5,6 +5,38 @@
       "PackagePath": "staticwebassets\\Bookify.Wep.bundle.scp.css"
     },
     {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\plugins.bundle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.bundle.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\plugins.bundle.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.bundle.rtl.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\style.bundle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.bundle.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\style.bundle.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.bundle.rtl.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\images\\avatar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar.png"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\plugins.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.bundle.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\scripts.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scripts.bundle.js"
+    },
+    {
       "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -17,184 +49,52 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
       "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",

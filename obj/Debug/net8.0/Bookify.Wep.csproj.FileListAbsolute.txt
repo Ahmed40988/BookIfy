@@ -144,3 +144,5 @@ D:\courses\back end.net\projects\Bookify\Bookify.Wep\obj\Debug\net8.0\refint\Boo
 D:\courses\back end.net\projects\Bookify\Bookify.Wep\obj\Debug\net8.0\Bookify.Wep.pdb
 D:\courses\back end.net\projects\Bookify\Bookify.Wep\obj\Debug\net8.0\Bookify.Wep.genruntimeconfig.cache
 D:\courses\back end.net\projects\Bookify\Bookify.Wep\obj\Debug\net8.0\ref\Bookify.Wep.dll
+D:\courses\back end.net\projects\Bookify\Bookify.Wep\bin\Debug\net8.0\libman.json
+D:\courses\back end.net\projects\Bookify\Bookify.Wep\obj\Debug\net8.0\Bookify.Wep.sourcelink.json
