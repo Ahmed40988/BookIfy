@@ -5,36 +5,352 @@
       "PackagePath": "staticwebassets\\Bookify.Wep.bundle.scp.css"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\plugins.bundle.css",
-      "PackagePath": "staticwebassets\\assets\\css\\plugins.bundle.css"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\cs-skin-elastic.css",
+      "PackagePath": "staticwebassets\\assets\\css\\cs-skin-elastic.css"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\plugins.bundle.rtl.css",
-      "PackagePath": "staticwebassets\\assets\\css\\plugins.bundle.rtl.css"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\@fortawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\@fortawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\@fortawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\@fortawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\@fortawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\@fortawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\@fortawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\@fortawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\@fortawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\@fortawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\@fortawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\@fortawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\@fortawesome\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\@fortawesome\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\@fortawesome\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\@fortawesome\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\fonticon\\fonticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fonticon\\fonticon.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\fonticon\\fonticon.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fonticon\\fonticon.eot"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\fonticon\\fonticon.html",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fonticon\\fonticon.html"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\fonticon\\fonticon.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fonticon\\fonticon.scss"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\fonticon\\fonticon.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fonticon\\fonticon.svg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\fonticon\\fonticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fonticon\\fonticon.ttf"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\fonticon\\fonticon.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fonticon\\fonticon.woff"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\fonticon\\fonticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fonticon\\fonticon.woff2"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-brands-400.eot"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-brands-400.svg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-brands-400.woff"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-regular-400.eot"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-regular-400.svg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-regular-400.woff"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-solid-900.eot"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-solid-900.svg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-solid-900.woff"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\fonts\\line-awesome\\la-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\line-awesome\\la-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\lib\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\lib\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\chosen\\chosen.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\lib\\chosen\\chosen.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\chosen\\chosen.min.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\plugins.bundle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.bundle.css"
     },
     {
       "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\style.bundle.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.bundle.css"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\style.bundle.rtl.css",
-      "PackagePath": "staticwebassets\\assets\\css\\style.bundle.rtl.css"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\images\\avatar.png",
-      "PackagePath": "staticwebassets\\assets\\images\\avatar.png"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\images\\logo.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\icomoon.eot"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\plugins.bundle.js",
-      "PackagePath": "staticwebassets\\assets\\js\\plugins.bundle.js"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\icomoon.svg"
     },
     {
-      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\scripts.bundle.js",
-      "PackagePath": "staticwebassets\\assets\\js\\scripts.bundle.js"
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\fonts\\icomoon\\index.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\index.html"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\init\\chartjs-init.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\init\\datatables-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\init\\datatables-init.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\init\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\init\\flot-chart-init.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\init\\fullcalendar-init.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\init\\gmap-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\init\\gmap-init.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\init\\peitychart-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\init\\peitychart-init.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\init\\vector-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\init\\vector-init.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\init\\weather-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\init\\weather-init.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\chosen\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\chosen\\chosen.proto.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\chosen\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\chosen\\chosen.proto.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\buttons.flash.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\datatables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\jszip.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\data-table\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\data-table\\vfs_fonts.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\lib\\gmap\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\gmap\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vmap.sampledata.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\scss\\style.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\scss\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.css.map"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\css\\Alert.css",
+      "PackagePath": "staticwebassets\\css\\Alert.css"
     },
     {
       "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\css\\site.css",
@@ -45,8 +361,84 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\.gitignore",
+      "PackagePath": "staticwebassets\\images\\.gitignore"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\images\\admin.jpg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\6.jpg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\avatar\\64-1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\64-1.jpg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\avatar\\64-2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\64-2.jpg"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
       "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\js\\validation-styling.js",
+      "PackagePath": "staticwebassets\\js\\validation-styling.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate.css\\animate.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootbox.js\\bootbox.js",
+      "PackagePath": "staticwebassets\\lib\\bootbox.js\\bootbox.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootbox.js\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootbox.js\\bootbox.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
     },
     {
       "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
@@ -97,6 +489,14 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
       "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
@@ -143,6 +543,326 @@
     {
       "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\dist\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\dist\\sweetalert2.all.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\dist\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\dist\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\dist\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\dist\\sweetalert2.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\dist\\sweetalert2.esm.all.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\dist\\sweetalert2.esm.all.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\dist\\sweetalert2.esm.all.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\dist\\sweetalert2.esm.all.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\dist\\sweetalert2.esm.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\dist\\sweetalert2.esm.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\dist\\sweetalert2.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\dist\\sweetalert2.esm.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\dist\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\dist\\sweetalert2.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\dist\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\dist\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\dist\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\dist\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\license",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\package.json",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package.json"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\readme.md"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\buttons-handlers.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\buttons-handlers.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\constants.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\constants.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\globalstate.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\globalstate.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\instancemethods.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\instancemethods.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\instancemethods\\_destroy.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\instancemethods\\_destroy.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\instancemethods\\close.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\instancemethods\\close.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\instancemethods\\enable-disable-elements.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\instancemethods\\enable-disable-elements.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\instancemethods\\getinput.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\instancemethods\\getinput.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\instancemethods\\hideloading.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\instancemethods\\hideloading.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\instancemethods\\update.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\instancemethods\\update.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\instancemethods\\validation-message.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\instancemethods\\validation-message.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\keydown-handler.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\keydown-handler.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\popup-click-handler.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\popup-click-handler.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\privatemethods.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\privatemethods.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\privateprops.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\privateprops.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\staticmethods.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\staticmethods.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\staticmethods\\argstoparams.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\staticmethods\\argstoparams.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\staticmethods\\bindclickhandler.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\staticmethods\\bindclickhandler.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\staticmethods\\dom.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\staticmethods\\dom.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\staticmethods\\eventhandlers.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\staticmethods\\eventhandlers.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\staticmethods\\fire.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\staticmethods\\fire.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\staticmethods\\mixin.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\staticmethods\\mixin.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\staticmethods\\showloading.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\staticmethods\\showloading.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\staticmethods\\timer.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\staticmethods\\timer.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\sweetalert.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\sweetalert.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\sweetalert2.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\sweetalert2.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\sweetalert2.scss"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\types.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\types.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\aria.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\aria.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\classes.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\classes.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\defaultinputvalidators.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\defaultinputvalidators.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dismissreason.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dismissreason.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\domutils.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\domutils.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\getters.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\getters.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\index.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\index.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\init.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\init.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\inpututils.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\inpututils.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\parsehtmltocontainer.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\parsehtmltocontainer.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\render.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\render.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderactions.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderactions.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderclosebutton.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderclosebutton.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\rendercontainer.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\rendercontainer.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\rendercontent.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\rendercontent.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderfooter.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderfooter.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\rendericon.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\rendericon.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderimage.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderimage.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderinput.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderinput.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderpopup.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderpopup.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderprogresssteps.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\renderprogresssteps.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\rendertitle.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\dom\\renderers\\rendertitle.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\draggable.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\draggable.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\eventemitter.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\eventemitter.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\gettemplateparams.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\gettemplateparams.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\iosfix.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\iosfix.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\isnodeenv.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\isnodeenv.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\openpopup.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\openpopup.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\params.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\params.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\setparameters.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\setparameters.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\timer.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\timer.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\src\\utils\\utils.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\src\\utils\\utils.js"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\sweetalert2.d.ts",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.d.ts"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\sweetalert2\\themes\\borderless.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\themes\\borderless.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\toastr.js\\toastr.css",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\toastr.js\\toastr.js.map",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.js.map"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\toastr.js\\toastr.min.css",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.min.css"
+    },
+    {
+      "Id": "D:\\courses\\back end.net\\projects\\Bookify\\Bookify.Wep\\wwwroot\\lib\\toastr.js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bookify.Wep.Microsoft.AspNetCore.StaticWebAssets.props",

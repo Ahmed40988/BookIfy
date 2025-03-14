@@ -1,0 +1,26 @@
+﻿@model Category
+<tr>
+    <td>@Model.Name</td>
+    <td>
+        <span class="badge bg-@(Model.IsDeleted ? "danger" : "success") js-status">
+            @(Model.IsDeleted ? "Deleted" : "Available")
+        </span>
+    </td>
+    <td>@Model.Createdon</td>
+    <td class="js-updated-on">@Model.lastupdated</td>
+    <td>
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fa-brands fa-slack"></i>
+            </button>
+
+            <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
+                <li>
+                    <a class="dropdown-item js-render-modal java-hover-activtiy" href="javascript:;"
+                       data-title="Edit Category" data-url="/Categories/Edit/@Model.Id" data-update="true">Edit</a>
+                </li>
+                <li><a class="dropdown-item js-toggle-status java-hover-activtiy" href="javascript:;" data-id="@Model.Id">Toggle Status</a></li>
+            </ul>
+        </div>
+    </td>
+</tr>

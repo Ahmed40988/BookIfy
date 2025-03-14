@@ -1,4 +1,5 @@
 using Bookify.Wep.Data;
+using Bookify.Wep.Data.Repository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,6 +20,7 @@ namespace Bookify.Wep
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<IRepositoryCategory, CategoryRepository>();
 
             var app = builder.Build();
 
